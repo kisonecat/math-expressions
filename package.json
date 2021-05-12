@@ -23,7 +23,7 @@
   "private": false,
   "dependencies": {
     "babel-cli": "^6.26.0",
-    "mathjs": "^4.4.2",
+    "mathjs": "^7.5.1",
     "number-theory": "*",
     "numeric": "*",
     "seedrandom": "^3.0.5",
